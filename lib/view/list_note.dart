@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_sqflite/model/note.dart';
 import 'package:flutter_sqflite/view/note_page.dart';
 //bagian list note
+//
 class NoteList extends StatefulWidget {
   final List<Note> notedata;
 
